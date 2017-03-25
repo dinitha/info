@@ -1,0 +1,2 @@
+check ports listening ------   netstat -a -o -n
+kill process from pid-----    taskkill /F /PID 28344
